@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anunay Patil</h1>
+<h3 align="center">Innovation-Driven Developer | MERN Stack | Problem Solver</h3>
 
-<!--
-**AnunayPatil/AnunayPatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnunayPatil&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me
+- 🎓 Computer Engineering Student  
+- 🚀 Building real-world, scalable software  
+- 💬 Ask me about **MERN Stack, Java, SQL**  
+- 🎥 Content Creator  
+- 📫 Email: **anunaypatil@gmail.com**
+
+---
+
+### 🤝 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/anunay-patil/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/AnunayPatil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.instagram.com/anu_nay_p/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,git" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- **Earn & Learn System** – MERN | Role-based dashboards  
+- **Bank Lending System** – REST APIs | SQLite  
+- **Java Placement Project** – Core Java  
+
+---
+
+
+⭐ *Building with intent. Scaling with impact.*
