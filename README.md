@@ -24,7 +24,7 @@
   <a href="https://github.com/AnunayPatil" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.instagram.com/anu_nay_p/" target="_blank">
+  <a href="https://www.instagram.com/anunay.patil/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
