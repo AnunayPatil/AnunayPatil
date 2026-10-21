@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Anunay Patil</h1>
-  <h3>Full-Stack Engineer & Problem Solver</h3>
+  <h3>AI Full-Stack Engineer & Problem Solver</h3>
   <p>Building high-performance web applications, scalable backends, and agentic AI systems.</p>
 
   <p>
