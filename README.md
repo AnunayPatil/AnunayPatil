@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Anunay Patil</h1>
-  <h3>AI Full-Stack Engineer & Problem Solver</h3>
-  <p>Building high-performance web applications, scalable backends, and agentic AI systems.</p>
+  <h3>Full-Stack & AI Engineer | Scalable Systems & Agentic Workflows</h3>
+  <p>Architecting production-ready web applications, performant APIs, and intelligent AI pipelines.</p>
 
   <p>
     <a href="https://linkedin.com/in/anunay-patil" target="_blank">
