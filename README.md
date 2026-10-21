@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** B.E. in Computer Engineering (Completed)
+- 🎓 **Education:** B.E. in Computer Engineering 
 - 💼 **Focus:** Full-Stack Development (React, Angular, Node.js, FastAPI) & Systems Architecture
 - 🤖 **Interests:** Applied Machine Learning, Retrieval-Augmented Generation (RAG), and agentic workflows
 - ⚡ **Current Priorities:** Writing clean, testable code, optimizing API latencies, and building resilient full-stack systems
