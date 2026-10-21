@@ -33,7 +33,7 @@
 
 **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,angular,nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,angular,nodejs,express,fastapi" />
 </p>
 
 **Databases & Tools**
