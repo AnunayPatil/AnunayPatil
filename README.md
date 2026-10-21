@@ -5,13 +5,15 @@
 
   <p>
     <a href="https://linkedin.com/in/anunay-patil" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
     </a>
+    &nbsp;
+    <a href="https://github.com/AnunayPatil" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+    </a>
+    &nbsp;
     <a href="mailto:anunaypatil@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/AnunayPatil">
-      <img src="https://komarev.com/ghpvc/?username=AnunayPatil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
     </a>
   </p>
 </div>
@@ -20,23 +22,23 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Final-year B.E. in Computer Engineering.
-- 💼 **Focus:** Full-Stack Development (React, Angular, Node.js, FastAPI) & Systems Architecture.
-- 🤖 **Interests:** Applied Machine Learning, Retrieval-Augmented Generation (RAG), and agentic workflows.
-- ⚡ **Current Priorities:** Writing clean, testable code, optimizing API latencies, and building resilient full-stack systems.
+- 🎓 **Education:** B.E. in Computer Engineering (Completed)
+- 💼 **Focus:** Full-Stack Development (React, Angular, Node.js, FastAPI) & Systems Architecture
+- 🤖 **Interests:** Applied Machine Learning, Retrieval-Augmented Generation (RAG), and agentic workflows
+- ⚡ **Current Priorities:** Writing clean, testable code, optimizing API latencies, and building resilient full-stack systems
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,react,angular,nodejs,express,fastapi" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,angular,nodejs,express,fastapi" />
 </p>
 
-**Databases, Cloud & Dev Tools**  
+**Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,docker,git,github,postman,aws" alt="Databases & Tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,docker,postman" />
 </p>
 
 ---
